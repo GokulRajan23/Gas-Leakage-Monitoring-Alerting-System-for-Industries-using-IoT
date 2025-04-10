@@ -14,35 +14,7 @@ An IoT-based solution to monitor gas leaks in industrial environments, send real
 
 ## 📂 Repository Structure
 
-Gas-Leakage-Detection-System/
-├── Documentation/               # Project reports and templates
-│   ├── Proposed_Solution.pdf    # Design Phase-I document
-│   ├── Technology_Stack.pdf     # Architecture and stack details
-│   ├── Functional_Requirements.pdf
-│   ├── Empathy_Map.pdf          # User research canvas
-│   ├── Final_Report.pdf         # Comprehensive project report
-│   └── Training_Timeline.pdf    # Project schedule
-│
-├── Hardware/                    # Hardware design files
-│   ├── Circuit_Diagram.pdf      # Schematic diagram
-│   ├── Components_List.pdf      # List with descriptions
-│   └── TinkerCAD_Link.txt       # Link to simulation
-│
-├── Firmware/                    # Code and IoT integration
-│   ├── Arduino/                 # Arduino sketches
-│   │   ├── gas_leak_detector.ino
-│   │   └── ibm_cloud_integration.ino
-│
-├── Cloud_Integration/           # IBM Cloud and Node-RED
-│   ├── NodeRED_Flow.json        # Exported flow
-│   └── IBM_Cloud_Setup.md       # Configuration steps
-│
-├── App_Screenshots/             # MIT App interface images
-│   ├── dashboard.png
-│   └── alert_notification.png
-│
-└── Presentations/
-    ├── Demo_Video.mp4
+https://github.com/user-attachments/assets/afb07538-3e4c-4211-97f8-e4374684524b
 
 
 ## 🔧 Hardware Components
